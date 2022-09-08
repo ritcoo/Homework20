@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.757">
+    <testcase classname="Add to Cart" name="Login to Site and Add an Item To Cart" time="5.158">
+        <system-out><![CDATA[Given user navigates to the Login page......................................passed
+And user enters standard_user and secret_sauce..............................passed
+And clicks the Login CTA....................................................passed
+When the user selects an item and adds it to the Cart.......................passed
+Then the user verifies that the item is added to the card...................passed
+]]></system-out>
+    </testcase>
+</testsuite>
